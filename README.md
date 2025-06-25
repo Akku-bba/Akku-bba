@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Face Detection System](https://github.com/SaurabhNagaich/FaceDetection_Django)
 
-- 👨‍💻 All of my projects are available at [https://github.com/SaurabhNagaich](https://github.com/SaurabhNagaich)
+- 👨‍💻 All of my projects are available at [https://github.com/Akku-bba](https://github.com/Akku-bba)
 
 - 💬 Ask me about **python,Django,Flask,AI,IOT,C#**
 
