@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 , I'm Akanksha Rajpoot</h1>
 <h3 align="center">A passionate Human Resource and backend developer from India</h3>
 
-<img align="right" alt ="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9j42ohbcwrHfwsNnhEdMkyk6CyPWzHuyL0YC4lp-n&s">
+<img align="right" alt ="coding" width="400" src="https://th.bing.com/th/id/OIP.NUeNz4iU5YOPyX4yEXwGdgHaE7?rs=1&pid=ImgDetMain&cb=idpwebpc2">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhnagaich&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhnagaich" /> </p>
 
